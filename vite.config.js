@@ -1,15 +1,15 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react";
 
 export default defineConfig({
-  base:'./',
+  base: "./",
   plugins: [react()],
-  assetsInclude:['**/*.jpg'],
+  assetsInclude: ["**/*.jpg"],
   resolve: {
     alias: [
-      { find: '@pages', replacement: '/src/pages' },
-      { find: '@components', replacement: '/src/components' },
-      { find: '@assets', replacement: '/src/assets' },
+      { find: "@pages", replacement: "/src/pages" },
+      { find: "@components", replacement: "/src/components" },
+      { find: "@assets", replacement: "/src/assets" },
     ],
   },
-})
+});
