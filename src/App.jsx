@@ -1,5 +1,5 @@
 import mrEggSushi from '/icons/mr-egg-sushi-trans.png'
-import './App.css'
+import './styles/App.css'
 
 function App() {
 
