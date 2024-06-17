@@ -1,4 +1,4 @@
-import mrEggSushi from '/icons/mr-egg-sushi-trans.png';
+import mrEggSushi from '@assets/icons/mr-egg-sushi-trans.png';
 import './styles/App.css';
 
 function App() {
