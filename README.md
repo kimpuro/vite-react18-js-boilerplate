@@ -1,4 +1,4 @@
-# KimPuro's Vite-React boilerplate
+# KimPuro's Vite-React-JS boilerplate
 
 Welcome to my Vite-React project template, designed for quick and efficient web development using JavaScript, React, Tailwind CSS. This template is built upon the `create vite` setup, enhanced with a custom folder structure tailored by KimPuro to provide a solid foundation for scaling and customization.
 
